@@ -1,3 +1,15 @@
+## Submission Instructions
+
+Once you have completed the assignment, please submit your solution via email to:
+
+**interview-kotlin@deblock.com**
+
+Your solution must be attached as a ZIP file following this naming pattern: `{first_name}_{last_name}.zip`
+
+For example: `john_doe.zip`
+
+---
+
 **Deblock - Problem to be solved**
 
 **Background:**
