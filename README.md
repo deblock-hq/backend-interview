@@ -1,6 +1,6 @@
 ## Submission Instructions
 
-Once you have completed the hometask, please submit your solution via email to:
+Once you have completed the assignment, please submit your solution via email to:
 
 **interview-kotlin@deblock.com**
 
